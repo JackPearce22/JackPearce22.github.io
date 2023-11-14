@@ -1180,8 +1180,8 @@ a {
   outline-width: 0;
   background-color: transparent;
   margin: 0; 
-  min-height: 90px;
-  min-width: 150px;
+  min-height: 85px;
+  min-width: 200px;
   -webkit-text-decoration-skip: objects;
 }
 .u-image.u-logo {
